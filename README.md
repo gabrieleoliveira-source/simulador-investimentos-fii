@@ -1,5 +1,4 @@
 # simulador-investimentos-fii
-!(Simulador de Investimento em FII's.xlsx)
 
 ## Sobre o projeto
 Simulador de investimentos em FIIs desenvolvido em Excel para projeção de patrimônio, dividendos e distribuição de aportes por perfil.
