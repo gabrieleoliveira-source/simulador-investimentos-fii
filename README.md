@@ -34,3 +34,11 @@ Perfil → Tipo de FII
 - Intervalos nomeados
 - Gráfico de pizza
 - Chave composta
+
+## Demonstração
+
+### Perfil Moderado
+![Simulação com perfil Moderado](moderado.png)
+
+### Perfil Agressivo
+![Simulação com perfil Agressivo](agressivo.png)
